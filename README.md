@@ -1,2 +1,15 @@
-# programming-journey
-A collection of my independent coding projects, self-taught experiments, and software development foundations.
+# Personal Coding Projects 🚀
+
+Welcome to my personal playground! This repository is dedicated purely to my independent coding projects, self-taught programming experiments, and foundational software engineering skills outside of my college curriculum.
+
+## 🛠️ Tech Stack & Languages
+* Currently learning: C / Python (Change these based on what you are studying!)
+* Tools: VS Code, Git
+
+## 📂 Repository Contents
+* `/01-scripts` - Small automation scripts and logic practice.
+* `/02-games` - Simple terminal-based games.
+* `/03-mini-projects` - Independent development tools.
+
+---
+*Maintained by Atharva Sampagaonkar*
